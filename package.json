@@ -1,0 +1,27 @@
+{
+  "name": "package_manager",
+  "version": "1.0.0",
+  "description": "Ejemplo de clase de  Web Platforms que explica el uso de dependecnias",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OPC02/mi-primera-aplicaci-n-con-npm-AngelSalcido.git"
+  },
+  "keywords": [
+    "UACH",
+    "WEB",
+    "Dependencias"
+  ],
+  "author": "Angel Efren Salcido Delgado",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OPC02/mi-primera-aplicaci-n-con-npm-AngelSalcido/issues"
+  },
+  "homepage": "https://github.com/OPC02/mi-primera-aplicaci-n-con-npm-AngelSalcido#readme",
+  "dependencies": {
+    "log4js": "^6.9.1"
+  }
+}
