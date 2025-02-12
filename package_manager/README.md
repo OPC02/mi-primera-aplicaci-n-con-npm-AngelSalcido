@@ -42,7 +42,7 @@ package_manager/
 ### 1. Clonar el Repositorio
 Clona el repositorio desde GitHub Classroom:
 ```bash
-git clone <URL_DEL_REPOSITORIO>
+git clone <https://github.com/OPC02/mi-primera-aplicaci-n-con-npm-AngelSalcido.git>
 cd package_manager
 ```
 
@@ -101,7 +101,7 @@ Las siguientes dependencias se han utilizado en el proyecto:
 
 ## Repositorio
 
-Este proyecto se encuentra alojado en **GitHub Classroom**. Puedes acceder al repositorio [aquí](<URL_DEL_REPOSITORIO>).
+Este proyecto se encuentra alojado en **GitHub Classroom**. Puedes acceder al repositorio [aquí](<https://github.com/OPC02/mi-primera-aplicaci-n-con-npm-AngelSalcido.git>).
 
 ---
 ## Autor
